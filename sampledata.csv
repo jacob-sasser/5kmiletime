@@ -1,0 +1,199 @@
+PerformanceID,Event,Gender,AthleteID,TeamID,MeetID,Units,VenueID,Level,SeasonYear,Season,Place,Heat,FirstName,LastName,GradYear,VenueName,VenueState,VenueCity,TeamName,MeetStartDate,MeetName,PolarBear
+76743281,1600m,F,6353299,7375,286051,338880,5446,HS,2018,Indoor,1,1,Jordan,Landis,2020,Eastern Alamance HS Track,NC,Mebane,Riverside (4A),11/15/2017,Eastern Alamance Polar Bear #1,O
+76743283,1600m,F,7285425,7375,286051,360280,5446,HS,2018,Indoor,3,1,Lucy,Kraus,2021,Eastern Alamance HS Track,NC,Mebane,Riverside (4A),11/15/2017,Eastern Alamance Polar Bear #1,O
+76743284,1600m,F,6339143,7469,286051,366620,5446,HS,2018,Indoor,4,1,Logan,Marine,2020,Eastern Alamance HS Track,NC,Mebane,Eastern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743285,1600m,F,5451922,7326,286051,382530,5446,HS,2018,Indoor,5,1,Mia,Mercer,2019,Eastern Alamance HS Track,NC,Mebane,North Davidson,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743286,1600m,F,5705346,19146,286051,393590,5446,HS,2018,Indoor,6,1,Destiny,Vanegas Perez,2019,Eastern Alamance HS Track,NC,Mebane,Granville Central,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743287,1600m,F,7252114,7473,286051,396060,5446,HS,2018,Indoor,7,1,Aubrey,Carson,2021,Eastern Alamance HS Track,NC,Mebane,"Williams, Walter M",11/15/2017,Eastern Alamance Polar Bear #1,O
+76743288,1600m,F,7271341,7326,286051,408840,5446,HS,2018,Indoor,8,1,Catherine,Benton,2021,Eastern Alamance HS Track,NC,Mebane,North Davidson,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743290,1600m,F,7121802,19146,286051,435090,5446,HS,2018,Indoor,10,1,Jennifer,Cortez,2019,Eastern Alamance HS Track,NC,Mebane,Granville Central,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743291,1600m,F,6304197,8377,286051,449620,5446,HS,2018,Indoor,11,1,Mallory,Harrelson,2020,Eastern Alamance HS Track,NC,Mebane,Southern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743292,1600m,F,6304195,8377,286051,451150,5446,HS,2018,Indoor,12,1,Anna,Bigelow,2020,Eastern Alamance HS Track,NC,Mebane,Southern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743294,3200m,F,5748670,7469,286051,769900,5446,HS,2018,Indoor,1,1,Courtney,Keeler,2019,Eastern Alamance HS Track,NC,Mebane,Eastern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743295,3200m,F,5876857,9226,286051,823620,5446,HS,2018,Indoor,2,1,Lauren,Esselborn,2019,Eastern Alamance HS Track,NC,Mebane,Franklinton,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743464,1600m,M,5856977,7326,286051,295620,5446,HS,2018,Indoor,2,1,Cameron,Mercer,2019,Eastern Alamance HS Track,NC,Mebane,North Davidson,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743465,1600m,M,6312472,7375,286051,299370,5446,HS,2018,Indoor,3,1,Taylor,Healy,2020,Eastern Alamance HS Track,NC,Mebane,Riverside (4A),11/15/2017,Eastern Alamance Polar Bear #1,O
+76743466,1600m,M,6304200,8377,286051,301500,5446,HS,2018,Indoor,4,1,Zach,Clemmons,2020,Eastern Alamance HS Track,NC,Mebane,Southern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743468,1600m,M,7261058,8377,286051,320530,5446,HS,2018,Indoor,6,1,Nathan,Russell,2021,Eastern Alamance HS Track,NC,Mebane,Southern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743469,1600m,M,6317736,7326,286051,323340,5446,HS,2018,Indoor,7,1,Evan,Johnson,2020,Eastern Alamance HS Track,NC,Mebane,North Davidson,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743470,1600m,M,6317740,7326,286051,325240,5446,HS,2018,Indoor,8,1,Riley,Mock,2019,Eastern Alamance HS Track,NC,Mebane,North Davidson,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743473,1600m,M,6520901,19146,286051,336090,5446,HS,2018,Indoor,11,1,Jeremias,Rush,2019,Eastern Alamance HS Track,NC,Mebane,Granville Central,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743475,1600m,M,7271437,7326,286051,344810,5446,HS,2018,Indoor,13,1,Ethan,Byrd,2021,Eastern Alamance HS Track,NC,Mebane,North Davidson,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743477,1600m,M,6339162,7469,286051,347870,5446,HS,2018,Indoor,15,1,Adam,Cole,2019,Eastern Alamance HS Track,NC,Mebane,Eastern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743478,1600m,M,7252112,7473,286051,349150,5446,HS,2018,Indoor,16,1,Ethan,Le,2021,Eastern Alamance HS Track,NC,Mebane,"Williams, Walter M",11/15/2017,Eastern Alamance Polar Bear #1,O
+76743479,1600m,M,5498208,8377,286051,349870,5446,HS,2018,Indoor,17,1,Seth,Tysor,2019,Eastern Alamance HS Track,NC,Mebane,Southern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743483,1600m,M,6606643,9226,286051,355930,5446,HS,2018,Indoor,21,1,Anthony,Gibbons,2020,Eastern Alamance HS Track,NC,Mebane,Franklinton,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743484,1600m,M,6606812,7469,286051,356870,5446,HS,2018,Indoor,22,1,Alex,Catalano,2020,Eastern Alamance HS Track,NC,Mebane,Eastern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743485,1600m,M,7574256,7469,286051,364340,5446,HS,2018,Indoor,23,1,Cullen,Justice,2021,Eastern Alamance HS Track,NC,Mebane,Eastern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743486,1600m,M,7305359,9226,286051,371440,5446,HS,2018,Indoor,24,1,Aidan,Groves,2021,Eastern Alamance HS Track,NC,Mebane,Franklinton,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743492,3200m,M,5498206,8377,286051,697560,5446,HS,2018,Indoor,3,1,Will,Thompson,2019,Eastern Alamance HS Track,NC,Mebane,Southern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743493,3200m,M,6346510,7473,286051,703440,5446,HS,2018,Indoor,4,1,Shawn,Royster,2019,Eastern Alamance HS Track,NC,Mebane,"Williams, Walter M",11/15/2017,Eastern Alamance Polar Bear #1,O
+76743494,3200m,M,4503190,8377,286051,720500,5446,HS,2018,Indoor,5,1,Luke,Ursery,2020,Eastern Alamance HS Track,NC,Mebane,Southern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743495,3200m,M,7574256,7469,286051,725380,5446,HS,2018,Indoor,6,1,Cullen,Justice,2021,Eastern Alamance HS Track,NC,Mebane,Eastern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743497,3200m,M,6339156,7469,286051,767940,5446,HS,2018,Indoor,8,1,Ryan,Catalano,2020,Eastern Alamance HS Track,NC,Mebane,Eastern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743498,3200m,M,6606643,9226,286051,769900,5446,HS,2018,Indoor,9,1,Anthony,Gibbons,2020,Eastern Alamance HS Track,NC,Mebane,Franklinton,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743499,3200m,M,6606812,7469,286051,797780,5446,HS,2018,Indoor,10,1,Alex,Catalano,2020,Eastern Alamance HS Track,NC,Mebane,Eastern Alamance,11/15/2017,Eastern Alamance Polar Bear #1,O
+76743500,3200m,M,7305359,9226,286051,811090,5446,HS,2018,Indoor,11,1,Aidan,Groves,2021,Eastern Alamance HS Track,NC,Mebane,Franklinton,11/15/2017,Eastern Alamance Polar Bear #1,O
+76748002,1600m,M,5500776,7573,295638,290000,16408,HS,2018,Indoor,1,1,Jaxon,Hudson,2019,Pender HS Track,NC,Burgaw,South Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748003,1600m,M,6339120,7573,295638,301000,16408,HS,2018,Indoor,2,1,Liam,Gannon,2020,Pender HS Track,NC,Burgaw,South Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748005,1600m,M,6340830,7570,295638,309000,16408,HS,2018,Indoor,4,1,Earl,Cottle,2019,Pender HS Track,NC,Burgaw,Pender,11/15/2017,Pender Polar Bear Meet #1,O
+76748006,1600m,M,6339122,7573,295638,311000,16408,HS,2018,Indoor,5,1,Rory,Gannon,2019,Pender HS Track,NC,Burgaw,South Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748008,1600m,M,7260500,7572,295638,324000,16408,HS,2018,Indoor,7,1,William,Grevin,2020,Pender HS Track,NC,Burgaw,North Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748014,1600m,M,6315839,7571,295638,357000,16408,HS,2018,Indoor,13,1,Michael,Benton,2020,Pender HS Track,NC,Burgaw,Heide Trask,11/15/2017,Pender Polar Bear Meet #1,O
+76748019,1600m,M,6340838,7570,295638,371000,16408,HS,2018,Indoor,18,1,Brice,Miller,2020,Pender HS Track,NC,Burgaw,Pender,11/15/2017,Pender Polar Bear Meet #1,O
+76748022,1600m,M,7266858,7572,295638,382000,16408,HS,2018,Indoor,21,1,Nathan,Harms,2021,Pender HS Track,NC,Burgaw,North Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748028,1600m,M,7287768,7570,295638,420000,16408,HS,2018,Indoor,27,1,Morgan,Hansen,2021,Pender HS Track,NC,Burgaw,Pender,11/15/2017,Pender Polar Bear Meet #1,O
+76748032,3200m,M,7260500,7572,295638,685000,16408,HS,2018,Indoor,1,1,William,Grevin,2020,Pender HS Track,NC,Burgaw,North Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748033,3200m,M,6339122,7573,295638,690000,16408,HS,2018,Indoor,2,1,Rory,Gannon,2019,Pender HS Track,NC,Burgaw,South Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748034,3200m,M,6389138,7571,295638,697000,16408,HS,2018,Indoor,3,1,James,Mills,2020,Pender HS Track,NC,Burgaw,Heide Trask,11/15/2017,Pender Polar Bear Meet #1,O
+76748035,3200m,M,6339142,7573,295638,705000,16408,HS,2018,Indoor,4,1,Jack,Phieffer,2020,Pender HS Track,NC,Burgaw,South Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748039,3200m,M,6315839,7571,295638,761000,16408,HS,2018,Indoor,8,1,Michael,Benton,2020,Pender HS Track,NC,Burgaw,Heide Trask,11/15/2017,Pender Polar Bear Meet #1,O
+76748041,3200m,M,7345727,7571,295638,768000,16408,HS,2018,Indoor,10,1,Vladimir,Perez Perez,2019,Pender HS Track,NC,Burgaw,Heide Trask,11/15/2017,Pender Polar Bear Meet #1,O
+76748044,3200m,M,6770590,7572,295638,777000,16408,HS,2018,Indoor,13,1,Gabriel,Valverde,2020,Pender HS Track,NC,Burgaw,North Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748050,3200m,M,7266858,7572,295638,868000,16408,HS,2018,Indoor,19,1,Nathan,Harms,2021,Pender HS Track,NC,Burgaw,North Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748122,1600m,F,7217874,7573,295638,372000,16408,HS,2018,Indoor,2,1,Mary Payton,Moffitt,2021,Pender HS Track,NC,Burgaw,South Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748123,1600m,F,7303575,7573,295638,382000,16408,HS,2018,Indoor,3,1,Hannah,Greer,2021,Pender HS Track,NC,Burgaw,South Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748126,1600m,F,7260499,7572,295638,417000,16408,HS,2018,Indoor,6,1,Makayla,Grevin,2021,Pender HS Track,NC,Burgaw,North Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76748127,1600m,F,5757088,7570,295638,425000,16408,HS,2018,Indoor,7,1,Shyanna,Ewing,2019,Pender HS Track,NC,Burgaw,Pender,11/15/2017,Pender Polar Bear Meet #1,O
+76748131,1600m,F,5622662,7570,295638,440000,16408,HS,2018,Indoor,11,1,Maria,James,2019,Pender HS Track,NC,Burgaw,Pender,11/15/2017,Pender Polar Bear Meet #1,O
+76748134,1600m,F,6603555,9245,295638,459000,16408,HS,2018,Indoor,14,1,Llansy,Zavala,2020,Pender HS Track,NC,Burgaw,Midway High School,11/15/2017,Pender Polar Bear Meet #1,O
+76748139,1600m,F,6315821,7571,295638,480000,16408,HS,2018,Indoor,19,1,Jocelyn,Fernandez Leon,2019,Pender HS Track,NC,Burgaw,Heide Trask,11/15/2017,Pender Polar Bear Meet #1,O
+76748144,3200m,F,7260499,7572,295638,914000,16408,HS,2018,Indoor,4,1,Makayla,Grevin,2021,Pender HS Track,NC,Burgaw,North Brunswick,11/15/2017,Pender Polar Bear Meet #1,O
+76761946,1600m,F,6596289,7624,281911,327140,5273,HS,2018,Indoor,1,1,Eliza,Broce,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,West Forsyth,11/18/2017,Reagan Polar Bear,O
+76761947,1600m,F,5719813,7624,281911,329240,5273,HS,2018,Indoor,2,1,Bailey,Reutinger,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,West Forsyth,11/18/2017,Reagan Polar Bear,O
+76761950,1600m,F,5662301,7485,281911,370810,5273,HS,2018,Indoor,5,1,Ainsley,Edwards,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Reagan,11/18/2017,Reagan Polar Bear,O
+76761951,1600m,F,2902182,10674,281911,371540,5273,HS,2018,Indoor,6,1,Kaylee,Spencer,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Marvin Ridge,11/18/2017,Reagan Polar Bear,O
+76761954,1600m,F,7263848,7545,281911,397820,5273,HS,2018,Indoor,8,1,Jean,Holman,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Gray Stone Day School,11/18/2017,Reagan Polar Bear,O
+76761955,1600m,F,6318602,7624,281911,403130,5273,HS,2018,Indoor,10,1,Leanna,Bernish,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,West Forsyth,11/18/2017,Reagan Polar Bear,O
+76761956,1600m,F,5273648,7644,281911,403380,5273,HS,2018,Indoor,11,1,Brooklyn,Lester,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Surry Central,11/18/2017,Reagan Polar Bear,O
+76761957,1600m,F,5747886,7484,281911,406440,5273,HS,2018,Indoor,12,1,Yazud,Brito-Milian,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Parkland ,11/18/2017,Reagan Polar Bear,O
+76761958,1600m,F,6601077,7484,281911,410790,5273,HS,2018,Indoor,13,1,Kelli,Mendoza-Cruz,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Parkland ,11/18/2017,Reagan Polar Bear,O
+76761959,1600m,F,6347017,7485,281911,418790,5273,HS,2018,Indoor,14,1,Katie,Nesbit,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Reagan,11/18/2017,Reagan Polar Bear,O
+76761961,1600m,F,5753433,7464,281911,445630,5273,HS,2018,Indoor,16,1,Christy,Nguyen,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Ragsdale,11/18/2017,Reagan Polar Bear,O
+76762052,1600m,M,5748053,7484,281911,298950,5273,HS,2018,Indoor,3,1,Alexis,Ceballos,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Parkland ,11/18/2017,Reagan Polar Bear,O
+76762053,1600m,M,6556344,7485,281911,317700,5273,HS,2018,Indoor,4,1,Kevin,Lin,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Reagan,11/18/2017,Reagan Polar Bear,O
+76762055,1600m,M,7265123,7485,281911,325510,5273,HS,2018,Indoor,6,1,Elliott,Pegram,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Reagan,11/18/2017,Reagan Polar Bear,O
+76762058,1600m,M,5718501,7485,281911,337240,5273,HS,2018,Indoor,9,1,Lucas,Ramirez,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Reagan,11/18/2017,Reagan Polar Bear,O
+76762059,1600m,M,5503676,7545,281911,343510,5273,HS,2018,Indoor,10,1,Noah,Maness,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Gray Stone Day School,11/18/2017,Reagan Polar Bear,O
+76762063,1600m,M,7265082,7485,281911,348470,5273,HS,2018,Indoor,14,1,Davis,Cook,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Reagan,11/18/2017,Reagan Polar Bear,O
+76762064,1600m,M,7344560,7484,281911,348820,5273,HS,2018,Indoor,15,1,Gustavo,Castillo Alejo,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Parkland ,11/18/2017,Reagan Polar Bear,O
+76762067,1600m,M,5445851,7485,281911,362540,5273,HS,2018,Indoor,18,1,Jonathan,Miner,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Reagan,11/18/2017,Reagan Polar Bear,O
+76791621,1600m,F,5527489,7306,283082,377860,14380,HS,2018,Indoor,1,1,Mikayla,Lamb,2019,JDL Fast Track,NC,Winston-Salem,Independence,11/17/2017,Mecklenburg Meet,
+76791622,1600m,F,6338633,7547,283082,471030,14380,HS,2018,Indoor,2,1,Ashley,Mullis,2020,JDL Fast Track,NC,Winston-Salem,Forest Hills,11/17/2017,Mecklenburg Meet,
+76791628,1600m,M,5473137,7553,283082,298920,14380,HS,2018,Indoor,3,1,Sean,Muller,2019,JDL Fast Track,NC,Winston-Salem,Bishop McGuinness,11/17/2017,Mecklenburg Meet,
+76791629,1600m,M,6602293,7306,283082,300740,14380,HS,2018,Indoor,4,1,Carter,Schenck,2020,JDL Fast Track,NC,Winston-Salem,Independence,11/17/2017,Mecklenburg Meet,
+76791630,1600m,M,5789917,7295,283082,308890,14380,HS,2018,Indoor,5,1,Ethan,Walker,2019,JDL Fast Track,NC,Winston-Salem,North Mecklenburg,11/17/2017,Mecklenburg Meet,
+76791631,1600m,M,5503764,7295,283082,321690,14380,HS,2018,Indoor,6,1,Jackson,Giovanelli,2019,JDL Fast Track,NC,Winston-Salem,North Mecklenburg,11/17/2017,Mecklenburg Meet,
+76791632,1600m,M,5997810,7295,283082,326670,14380,HS,2018,Indoor,7,1,Jack,Sabine,2019,JDL Fast Track,NC,Winston-Salem,North Mecklenburg,11/17/2017,Mecklenburg Meet,
+76791635,1600m,M,6583129,7265,283082,362840,14380,HS,2018,Indoor,10,1,Braedon,Childers,2020,JDL Fast Track,NC,Winston-Salem,Ashbrook,11/17/2017,Mecklenburg Meet,
+76791766,3200m,M,5424167,7553,283082,636990,14380,HS,2018,Indoor,1,1,Jack,Herndon,2019,JDL Fast Track,NC,Winston-Salem,Bishop McGuinness,11/17/2017,Mecklenburg Meet,
+76791768,3200m,M,6583129,7265,283082,767950,14380,HS,2018,Indoor,3,1,Braedon,Childers,2020,JDL Fast Track,NC,Winston-Salem,Ashbrook,11/17/2017,Mecklenburg Meet,
+76791780,3200m,M,2281141,42487,281911,555440,5273,HS,2018,Indoor,5,11,Ben,Mitchell,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Unattached AAU,11/18/2017,Reagan Polar Bear,O
+76791781,3200m,M,4511927,7347,281911,560930,5273,HS,2018,Indoor,7,11,Peyton,Barish,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Green Hope,11/18/2017,Reagan Polar Bear,O
+76791782,3200m,M,4822321,7488,281911,563540,5273,HS,2018,Indoor,9,11,Laderique,McNeill,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Harnett Central,11/18/2017,Reagan Polar Bear,O
+76791783,3200m,M,5441594,7491,281911,567400,5273,HS,2018,Indoor,10,11,Ben,Verchick,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Union Pines,11/18/2017,Reagan Polar Bear,O
+76791787,3200m,M,5610320,7359,281911,573200,5273,HS,2018,Indoor,14,11,Nickolas,Scudder,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Millbrook,11/18/2017,Reagan Polar Bear,O
+76791788,3200m,M,6442776,7347,281911,573850,5273,HS,2018,Indoor,15,11,Ares,Epps,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Green Hope,11/18/2017,Reagan Polar Bear,O
+76791789,3200m,M,4511261,7280,281911,575240,5273,HS,2018,Indoor,17,10,Ryan,Brown,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Broughton,11/18/2017,Reagan Polar Bear,O
+76791790,3200m,M,5484368,15505,281911,576300,5273,HS,2018,Indoor,19,10,Brian,Risse,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,North Lincoln,11/18/2017,Reagan Polar Bear,O
+76791793,3200m,M,5453877,7344,281911,577960,5273,HS,2018,Indoor,22,10,Anton,Idhammar,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Cary,11/18/2017,Reagan Polar Bear,O
+76791794,3200m,M,4511955,7347,281911,578390,5273,HS,2018,Indoor,23,10,Daniel,Vo,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Green Hope,11/18/2017,Reagan Polar Bear,O
+76791799,3200m,M,5772426,7294,281911,582710,5273,HS,2018,Indoor,28,10,Andrew,Hammel,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Christ School,11/18/2017,Reagan Polar Bear,O
+76791800,3200m,M,4514070,42487,281911,582850,5273,HS,2018,Indoor,29,10,Connor,White,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Unattached AAU,11/18/2017,Reagan Polar Bear,O
+76791801,3200m,M,5464859,7614,281911,583080,5273,HS,2018,Indoor,30,10,Hunter,White,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,North Henderson,11/18/2017,Reagan Polar Bear,O
+76791803,3200m,M,2902231,7311,281911,585230,5273,HS,2018,Indoor,33,10,Kyle,Durham,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Weddington High School,11/18/2017,Reagan Polar Bear,O
+76791804,3200m,M,5527481,7311,281911,588520,5273,HS,2018,Indoor,34,10,Will,Mazur,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Weddington High School,11/18/2017,Reagan Polar Bear,O
+76791805,3200m,M,4512473,7703,281911,589060,5273,HS,2018,Indoor,35,9,Justin,Todd,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Ledford,11/18/2017,Reagan Polar Bear,O
+76791806,3200m,M,5969708,7311,281911,589230,5273,HS,2018,Indoor,36,9,Stephen,Larson,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Weddington High School,11/18/2017,Reagan Polar Bear,O
+76791807,3200m,M,5947789,7459,281911,589390,5273,HS,2018,Indoor,37,10,John,Ciprich,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Piedmont,11/18/2017,Reagan Polar Bear,O
+76791809,3200m,M,6315313,38848,281911,590330,5273,HS,2018,Indoor,39,10,Tim,Haughton,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Apex Friendship,11/18/2017,Reagan Polar Bear,O
+76791810,3200m,M,5453847,7344,281911,590990,5273,HS,2018,Indoor,40,9,Stephen,Atkinson,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Cary,11/18/2017,Reagan Polar Bear,O
+76791812,3200m,M,5446218,7312,281911,592080,5273,HS,2018,Indoor,42,8,Cooper,Castellaw,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Alexander Central,11/18/2017,Reagan Polar Bear,O
+76791813,3200m,M,5488455,7271,281911,592470,5273,HS,2018,Indoor,43,9,Christian,Landis,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Providence Day School,11/18/2017,Reagan Polar Bear,O
+76791816,3200m,M,2902225,7311,281911,592920,5273,HS,2018,Indoor,46,9,Jackson,O'Hara,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Weddington High School,11/18/2017,Reagan Polar Bear,O
+76791817,3200m,M,3841638,7530,281911,593950,5273,HS,2018,Indoor,47,9,Lowell,Hensgen,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Cardinal Gibbons,11/18/2017,Reagan Polar Bear,O
+76791819,3200m,M,4537289,7422,281911,596500,5273,HS,2018,Indoor,50,8,Jayden,Hefner,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,St. Stephens,11/18/2017,Reagan Polar Bear,O
+76791820,3200m,M,6315059,8506,281911,596620,5273,HS,2018,Indoor,51,8,Ben,Armentrout,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Atkins,11/18/2017,Reagan Polar Bear,O
+76791822,3200m,M,5487706,7486,281911,597190,5273,HS,2018,Indoor,53,9,Travis,Leach,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Southwest Guilford,11/18/2017,Reagan Polar Bear,O
+76791825,3200m,M,6355895,7644,281911,598770,5273,HS,2018,Indoor,57,10,Erick,Ramirez-Ramos,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Surry Central,11/18/2017,Reagan Polar Bear,O
+76791827,3200m,M,5947498,7606,281911,599430,5273,HS,2018,Indoor,59,9,Pace,Clark,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Providence,11/18/2017,Reagan Polar Bear,O
+76791828,3200m,M,5447785,7280,281911,599600,5273,HS,2018,Indoor,60,9,Michael,Rooney,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Broughton,11/18/2017,Reagan Polar Bear,O
+76791829,3200m,M,5395920,7347,281911,599750,5273,HS,2018,Indoor,61,9,Spencer,Cowley,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Green Hope,11/18/2017,Reagan Polar Bear,O
+76791830,3200m,M,3716949,7311,281911,599850,5273,HS,2018,Indoor,62,9,Jake,Toomey,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Weddington High School,11/18/2017,Reagan Polar Bear,O
+76791831,3200m,M,4521213,8958,281911,600010,5273,HS,2018,Indoor,63,10,Jarred,Komyati,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Panther Creek,11/18/2017,Reagan Polar Bear,O
+76791832,3200m,M,7188080,7370,281911,600140,5273,HS,2018,Indoor,64,9,Ben,Hawley,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Chapel Hill,11/18/2017,Reagan Polar Bear,O
+76791834,3200m,M,6311417,7280,281911,600560,5273,HS,2018,Indoor,66,10,Jack,Rooney,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Broughton,11/18/2017,Reagan Polar Bear,O
+76791835,3200m,M,6317261,15505,281911,600800,5273,HS,2018,Indoor,67,8,Jason,Thomson,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,North Lincoln,11/18/2017,Reagan Polar Bear,O
+76791836,3200m,M,4463446,7268,281911,600870,5273,HS,2018,Indoor,68,9,Andrew,Inman,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Forestview,11/18/2017,Reagan Polar Bear,O
+76791838,3200m,M,5487704,7486,281911,601670,5273,HS,2018,Indoor,70,8,Kobe,Brown,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Southwest Guilford,11/18/2017,Reagan Polar Bear,O
+76791840,3200m,M,4896087,7370,281911,603010,5273,HS,2018,Indoor,72,10,Nat,Romaine,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Chapel Hill,11/18/2017,Reagan Polar Bear,O
+76791841,3200m,M,5450833,7331,281911,603020,5273,HS,2018,Indoor,73,7,Benjamin,Seeber,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Grimsley,11/18/2017,Reagan Polar Bear,O
+76791843,3200m,M,7258193,7530,281911,603270,5273,HS,2018,Indoor,75,8,Wesley,Haws,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Cardinal Gibbons,11/18/2017,Reagan Polar Bear,O
+76791845,3200m,M,5453859,7278,281911,603440,5273,HS,2018,Indoor,77,9,Ian,Hixson,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Leesville Road,11/18/2017,Reagan Polar Bear,O
+76791846,3200m,M,5453885,7344,281911,603970,5273,HS,2018,Indoor,78,8,Ted,Sielatycki,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Cary,11/18/2017,Reagan Polar Bear,O
+76791847,3200m,M,6635921,7278,281911,604720,5273,HS,2018,Indoor,79,8,Colby,Crenshaw,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Leesville Road,11/18/2017,Reagan Polar Bear,O
+76791848,3200m,M,4537276,7324,281911,605070,5273,HS,2018,Indoor,80,7,Sean,Incardona,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,East Rowan,11/18/2017,Reagan Polar Bear,O
+76791851,3200m,M,7323691,15521,281911,605530,5273,HS,2018,Indoor,83,8,Jack,Dingman,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Northern Guilford,11/18/2017,Reagan Polar Bear,O
+76791852,3200m,M,7279230,42487,281911,605630,5273,HS,2018,Indoor,84,8,Murphy,Smith,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Unattached AAU,11/18/2017,Reagan Polar Bear,O
+76791853,3200m,M,5483868,7327,281911,605910,5273,HS,2018,Indoor,85,7,John,Paynter,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,R.J. Reynolds,11/18/2017,Reagan Polar Bear,O
+76791855,3200m,M,5484107,7344,281911,606840,5273,HS,2018,Indoor,87,10,Brian,Picone,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Cary,11/18/2017,Reagan Polar Bear,O
+76791856,3200m,M,6308931,7327,281911,608170,5273,HS,2018,Indoor,88,8,Jack,Holbrook,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,R.J. Reynolds,11/18/2017,Reagan Polar Bear,O
+76791857,3200m,M,5484369,15505,281911,608980,5273,HS,2018,Indoor,89,7,Jason,Risse,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,North Lincoln,11/18/2017,Reagan Polar Bear,O
+76791858,3200m,M,6301900,7370,281911,609480,5273,HS,2018,Indoor,90,6,Owen,Rogers,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Chapel Hill,11/18/2017,Reagan Polar Bear,O
+76791861,3200m,M,3679298,7449,281911,610770,5273,HS,2018,Indoor,93,7,Carter,Tacosik,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Mooresville,11/18/2017,Reagan Polar Bear,O
+76791862,3200m,M,5508962,7602,281911,610980,5273,HS,2018,Indoor,94,9,Ethan,Frey,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,NC School of Science & Math,11/18/2017,Reagan Polar Bear,O
+76791863,3200m,M,5458608,7340,281911,611150,5273,HS,2018,Indoor,95,8,Jacob,Vehslage,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Apex,11/18/2017,Reagan Polar Bear,O
+76791864,3200m,M,6313206,7347,281911,611820,5273,HS,2018,Indoor,96,10,Thomas,Vo,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Green Hope,11/18/2017,Reagan Polar Bear,O
+76791865,3200m,M,5748568,7485,281911,612250,5273,HS,2018,Indoor,97,7,Aaron,Dorer,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Reagan,11/18/2017,Reagan Polar Bear,O
+76791866,3200m,M,7238247,15505,281911,612500,5273,HS,2018,Indoor,98,7,Johnny,Grant,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,North Lincoln,11/18/2017,Reagan Polar Bear,O
+76791868,3200m,M,6320735,7268,281911,613210,5273,HS,2018,Indoor,100,7,Dasani,Hawkins,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Forestview,11/18/2017,Reagan Polar Bear,O
+76791869,3200m,M,3679318,7291,281911,613430,5273,HS,2018,Indoor,101,9,Tamer,Metwalli,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Cannon School,11/18/2017,Reagan Polar Bear,O
+76791870,3200m,M,6301899,7370,281911,613510,5273,HS,2018,Indoor,102,7,Zeno,Scotti,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Chapel Hill,11/18/2017,Reagan Polar Bear,O
+76791871,3200m,M,4537177,12241,281911,613640,5273,HS,2018,Indoor,103,5,Kevin,Mclaughlin,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Hickory Ridge,11/18/2017,Reagan Polar Bear,O
+76791872,3200m,M,6315701,7340,281911,614310,5273,HS,2018,Indoor,104,6,Andrew,Edney,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Apex,11/18/2017,Reagan Polar Bear,O
+76791873,3200m,M,7284567,7359,281911,614440,5273,HS,2018,Indoor,105,7,Joshua,Navarro,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Millbrook,11/18/2017,Reagan Polar Bear,O
+76791874,3200m,M,6362305,42487,281911,615350,5273,HS,2018,Indoor,106,6,Alec,Barden,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Unattached AAU,11/18/2017,Reagan Polar Bear,O
+76791876,3200m,M,6320219,42487,281911,615500,5273,HS,2018,Indoor,108,6,Daniel,Similton,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Unattached AAU,11/18/2017,Reagan Polar Bear,O
+76791879,3200m,M,5915942,38848,281911,616000,5273,HS,2018,Indoor,111,7,Michael,Curcio,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Apex Friendship,11/18/2017,Reagan Polar Bear,O
+76791880,3200m,M,5460109,15521,281911,616230,5273,HS,2018,Indoor,112,6,Benny,Melville,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Northern Guilford,11/18/2017,Reagan Polar Bear,O
+76791881,3200m,M,7261020,7360,281911,617710,5273,HS,2018,Indoor,113,8,Carson,Helmer,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Sanderson,11/18/2017,Reagan Polar Bear,O
+76791882,3200m,M,5441704,7373,281911,618070,5273,HS,2018,Indoor,114,8,Daniel,McAdams,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Jordan,11/18/2017,Reagan Polar Bear,O
+76791883,3200m,M,3778761,7624,281911,618170,5273,HS,2018,Indoor,115,6,Brock,Newsome,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,West Forsyth,11/18/2017,Reagan Polar Bear,O
+76791884,3200m,M,5498420,7325,281911,618340,5273,HS,2018,Indoor,116,6,Max,Thomas,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Mount Tabor,11/18/2017,Reagan Polar Bear,O
+76791887,3200m,M,6633997,7449,281911,620340,5273,HS,2018,Indoor,119,6,Damien,Gonzalez,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Mooresville,11/18/2017,Reagan Polar Bear,O
+76791888,3200m,M,5443745,9186,281911,621000,5273,HS,2018,Indoor,120,40,Bryan (Dexter),Hill,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Holly Springs,11/18/2017,Reagan Polar Bear,O
+76791889,3200m,M,6313205,7347,281911,621600,5273,HS,2018,Indoor,121,7,Michael,Taylor,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Green Hope,11/18/2017,Reagan Polar Bear,O
+76791891,3200m,M,5154285,7271,281911,622270,5273,HS,2018,Indoor,123,9,Adam,Habas,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Providence Day School,11/18/2017,Reagan Polar Bear,O
+76791892,3200m,M,3841571,7370,281911,622520,5273,HS,2018,Indoor,125,4,Ethan,Mathis,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Chapel Hill,11/18/2017,Reagan Polar Bear,O
+76791894,3200m,M,7188085,7370,281911,623520,5273,HS,2018,Indoor,127,5,Emil,Arangala,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Chapel Hill,11/18/2017,Reagan Polar Bear,O
+76791895,3200m,M,4574798,7491,281911,624160,5273,HS,2018,Indoor,128,5,Trace,Fraley,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Union Pines,11/18/2017,Reagan Polar Bear,O
+76791897,3200m,M,6247559,7485,281911,624910,5273,HS,2018,Indoor,130,5,Jack,Cumbo,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Reagan,11/18/2017,Reagan Polar Bear,O
+76791898,3200m,M,4369175,38848,281911,625020,5273,HS,2018,Indoor,131,7,Naim,Bell,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Apex Friendship,11/18/2017,Reagan Polar Bear,O
+76791899,3200m,M,6314874,7278,281911,625160,5273,HS,2018,Indoor,132,8,Andrew,Macemore,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Leesville Road,11/18/2017,Reagan Polar Bear,O
+76791901,3200m,M,3659886,10674,281911,625720,5273,HS,2018,Indoor,134,6,Jackson,Colling,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Marvin Ridge,11/18/2017,Reagan Polar Bear,O
+76791902,3200m,M,5661698,7278,281911,626050,5273,HS,2018,Indoor,135,5,Will,Bell,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Leesville Road,11/18/2017,Reagan Polar Bear,O
+76791903,3200m,M,6307876,42487,281911,626490,5273,HS,2018,Indoor,136,6,Aj,Williams,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Unattached AAU,11/18/2017,Reagan Polar Bear,O
+76791904,3200m,M,7280822,10674,281911,626670,5273,HS,2018,Indoor,137,6,Cole,Jackson,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Marvin Ridge,11/18/2017,Reagan Polar Bear,O
+76791905,3200m,M,5442122,9186,281911,627160,5273,HS,2018,Indoor,138,7,Ryan,O'Hare,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Holly Springs,11/18/2017,Reagan Polar Bear,O
+76791907,3200m,M,5440727,7370,281911,627230,5273,HS,2018,Indoor,140,5,Jason,Dadolf,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Chapel Hill,11/18/2017,Reagan Polar Bear,O
+76791908,3200m,M,5445939,7347,281911,627300,5273,HS,2018,Indoor,141,10,Reed,Blackman,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Green Hope,11/18/2017,Reagan Polar Bear,O
+76791909,3200m,M,4329987,8380,281911,628730,5273,HS,2018,Indoor,142,7,William,Coye,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Brevard,11/18/2017,Reagan Polar Bear,O
+76791910,3200m,M,5443375,7278,281911,629240,5273,HS,2018,Indoor,143,6,Hayden,Reed,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Leesville Road,11/18/2017,Reagan Polar Bear,O
+76791911,3200m,M,7393286,7369,281911,629830,5273,HS,2018,Indoor,145,4,Richard,Villafranco ,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,West Johnston,11/18/2017,Reagan Polar Bear,O
+76791912,3200m,M,6311418,7280,281911,629840,5273,HS,2018,Indoor,146,6,Dylan,Shankle,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Broughton,11/18/2017,Reagan Polar Bear,O
+76791914,3200m,M,4557826,42487,281911,630380,5273,HS,2018,Indoor,147,9,Will,Scott,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Unattached AAU,11/18/2017,Reagan Polar Bear,O
+76791915,3200m,M,6447520,7449,281911,631330,5273,HS,2018,Indoor,149,7,Matt,Ferrara,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Mooresville,11/18/2017,Reagan Polar Bear,O
+76791917,3200m,M,6315309,38848,281911,632720,5273,HS,2018,Indoor,151,5,Joshua,Carlson,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Apex Friendship,11/18/2017,Reagan Polar Bear,O
+76791918,3200m,M,7254209,18914,281911,633080,5273,HS,2018,Indoor,153,5,Aaron,Rovnak,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Franklin Academy,11/18/2017,Reagan Polar Bear,O
+76791919,3200m,M,6798533,26972,281911,633110,5273,HS,2018,Indoor,154,8,Zachary,Clark,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Cleveland High School,11/18/2017,Reagan Polar Bear,O
+76791920,3200m,M,5536292,7359,281911,633280,5273,HS,2018,Indoor,155,6,Banks,Scudder,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Millbrook,11/18/2017,Reagan Polar Bear,O
+76791922,3200m,M,5195638,7311,281911,634040,5273,HS,2018,Indoor,158,4,Joseph,Lowther,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Weddington High School,11/18/2017,Reagan Polar Bear,O
+76791924,3200m,M,4447662,28835,281911,635160,5273,HS,2018,Indoor,160,6,Blake,Freeman,2018,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Walkertown ,11/18/2017,Reagan Polar Bear,O
+76791926,3200m,M,6439835,7449,281911,635720,5273,HS,2018,Indoor,162,6,Pablo,Martinez,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Mooresville,11/18/2017,Reagan Polar Bear,O
+76791927,3200m,M,2902152,10674,281911,636230,5273,HS,2018,Indoor,163,5,James,Bryant,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Marvin Ridge,11/18/2017,Reagan Polar Bear,O
+76791928,3200m,M,6736032,7485,281911,637040,5273,HS,2018,Indoor,164,6,Sam,Graham,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Reagan,11/18/2017,Reagan Polar Bear,O
+76791929,3200m,M,7284565,7359,281911,640040,5273,HS,2018,Indoor,165,6,William,Mitchell,2021,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Millbrook,11/18/2017,Reagan Polar Bear,O
+76791930,3200m,M,5753444,7448,281911,641190,5273,HS,2018,Indoor,166,6,Rex,Mathis,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Lake Norman,11/18/2017,Reagan Polar Bear,O
+76791933,3200m,M,5487719,7486,281911,641420,5273,HS,2018,Indoor,169,5,Andy,Woehr,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Southwest Guilford,11/18/2017,Reagan Polar Bear,O
+76791934,3200m,M,6439836,7449,281911,643910,5273,HS,2018,Indoor,170,5,Eli,Blackwelder,2020,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Mooresville,11/18/2017,Reagan Polar Bear,O
+76791936,3200m,M,5915499,7280,281911,645160,5273,HS,2018,Indoor,172,5,Edward,Brinkley,2019,Ronald W. Reagan H.S. Track,NC,Winston-Salem,Broughton,11/18/2017,Reagan Polar Bear,O
