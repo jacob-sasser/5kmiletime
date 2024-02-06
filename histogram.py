@@ -4,13 +4,13 @@ import numpy as np
 import pandas as pd
 def main():
     data = pd.read_csv("sampledata2.csv", usecols=['event_code', 'minutes'])
+    #event codes
+    #plt.hist([data[data.columns[0]]], bins =10)
 
-    plt.hist([data[data.columns[0]], data[data.columns[1]]], label=[data.columns[0], data.columns[1]])
-    print(data.columns)
+    #minutes
+    plt.hist([data[data.columns[1]]], label=[data.columns[1]], bins=20)
     
-    plt.xlabel('')
-    plt.ylabel('Frequency')
-    #plt.legend()
+    
     plt.show()
 if __name__ == '__main__':
     main()
