@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 def main():
-    data = pd.read_csv("sampledata2.csv", usecols=['event_code', 'minutes'])
+    data = pd.read_csv("m_times.csv", usecols=['event_code', 'mark'])
     #event codes
     #plt.hist([data[data.columns[0]]], bins =10)
 

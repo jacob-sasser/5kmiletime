@@ -30,11 +30,11 @@ class of and year
 
 # %%
 # Import Male Data
-meets_df = pd.read_csv("m_times", error_bad_lines=False)
+meets_df = pd.read_csv("m_times.csv")
 
 # Cleaning Data to only use 5000m and use> 12 min meets
 meets = meets_df[meets_df['event_code'] == '5000m']
-meets = meets[meets['minutes'] > 12]
+#meets = meets[meets['minutes'] > 12]
 
 
 # %%
